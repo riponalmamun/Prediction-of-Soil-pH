@@ -2,4 +2,4 @@
 
 This report presents a comprehensive study on predicting soil pH using machine learning techniques. By leveraging a dataset containing various soil properties, we explored the effectiveness of Random Forest (RF)XGBoost,Decision Tree,Stacked Regressor,SVR (Support Vector Regressor),ANN (Artificial Neural Network),Recursive Feature Elimination (RFE) and Polynomial Features in accurately estimating soil pH. Our findings demonstrate that Random Forest significantly outperforms the other models, achieving an R² of 0.62 and an RMSE of 0.52. Additionally, feature importance analysis using SHAP and LIME revealed that Fe ppm, CaCO3 %, and Mn ppm are the most influential factors in determining soil pH. These results underscore the potential of machine learning to revolutionize precision agriculture by providing farmers with valuable insights for optimizing crop yields and soil health.
 
-Dataset Link:
+Dataset Link: https://data.mendeley.com/datasets/r7tjn68rmw/1?fbclid=IwY2xjawFSry9leHRuA2FlbQIxMAABHdJxnyPG_9ShmREN46U--ckd7YKwBGd0gbBzixTyKCSpDB-XmiY1XTHarQ_aem_9KVz9GP83A7KoaRU8AZH1Q
